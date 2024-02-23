@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps, Networking, Mobile deploy**
 
-- 📫 How to reach me **tronghiepdn@gmail.com**
+- 📫 How to reach me **tronghiepdn@gmail.com **
 
 - ⚡ Fun fact **I dive into the world of programming with enthusiasm, eager to conquer challenges and grow along the way.**
 
